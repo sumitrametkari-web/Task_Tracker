@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Task_Tracker.jar",
+        "c:\\Users\\Sumitra\\Downloads\\junit-platform-console-standalone-1.10.2.jar"
+    ]
+}
